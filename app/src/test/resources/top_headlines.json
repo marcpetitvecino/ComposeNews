@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Alexander Osipovich, Anna Hirtenstein, Dave Sebastian",
+    "title": "S&P 500 Falls Further After Entering Bear Market - The Wall Street Journal",
+    "description": "Investors are awaiting the Fed’s next interest-rate decision, due Wednesday",
+    "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-14-2022-11655179460",
+    "urlToImage": "https://images.wsj.net/im-563340/social",
+    "publishedAt": "2022-06-14T20:04:00Z",
+    "content": "The S&amp;P 500 continued its slide on Tuesday, a day after it closed in a bear market for the first time since 2020. The broad market index fell 14.15 points, or 0.4%, to 3735.48, ending the session… [+4874 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Holly Ellyatt",
+    "title": "EU looks for natural gas alternative to Russia; fighting rages in Severodonetsk - CNBC",
+    "description": "Ukraine's President Volodymyr Zelenskyy has said his country is dealing with \"absolute evil\" and must \"knock out the occupiers from all our areas.\"",
+    "url": "https://www.cnbc.com/2022/06/14/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107075060-1655145913172-gettyimages-1241284122-AFP_32CE9Y6.jpeg?v=1655146291&w=1920&h=1080",
+    "publishedAt": "2022-06-14T20:00:00Z",
+    "content": "Coordinated global sanctions may not immediately affect the Kremlin's ability to finance its defense industrial base or its ongoing war in Ukraine, Russian economy expert Richard Connolly said. \r\n\"Th… [+1176 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Natachi Onwuamaegbu",
+    "title": "K-pop supergroup BTS announces hiatus to pursue solo projects - The Washington Post",
+    "description": "BTS is saying BRB: The hugely successful K-pop boyband announced Tuesday they are taking a hiatus from the group.",
+    "url": "https://www.washingtonpost.com/arts-entertainment/2022/06/14/bts-hiatus/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7WZJ3XMAEI6ZH4QPHPR7MUCSY.jpg&w=1440",
+    "publishedAt": "2022-06-14T19:59:00Z",
+    "content": "Placeholder while article actions load\r\nKorean boy band BTS celebrated its ninth anniversary with a shocking announcement: The group is going on hiatus.\r\nRM, Jin, Suga, J-Hope, Jimin, V and Jungkook … [+1752 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Clare Foran, Kristin Wilson and Annie Grayer, CNN",
+    "title": "House passes bill ​​to extend security protections to families of Supreme Court justices - CNN",
+    "description": "The House voted 396-27 on Tuesday to pass a bill extending security protections to Supreme Court justices' immediate family members.",
+    "url": "https://www.cnn.com/2022/06/14/politics/house-vote-supreme-court-justice-security/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220612110756-01-scotus-building-0531-super-tease.jpg",
+    "publishedAt": "2022-06-14T19:07:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "U.S. Open 2022: Phil Mickelson's return, Brooks Koepka's history among 10 storylines at Brookline - CBS Sports",
+    "description": "Here are the narratives to follow at The Country Club at Brookline this week",
+    "url": "https://www.cbssports.com/golf/news/u-s-open-2022-phil-mickelsons-return-brooks-koepkas-history-among-10-storylines-at-brookline/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/06/82f53ab3-34cd-4132-a5a5-e00373b29e74/thumbnail/1200x675/9e2c41d568529a2865cbefa844fd6ec6/phil-mickelson-usatsi.jpg",
+    "publishedAt": "2022-06-14T19:07:00Z",
+    "content": "What a time for a major championship. Immediately following one of the wilder weeks in the modern history of professional golf, the U.S. Open returns to one of the most historic golf courses in the U… [+8422 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Celtics Stop Curry, Warriors Win Anyway | 2022 NBA Finals Game 5 - BBALLBREAKDOWN",
+    "description": "#NBAFinals #nbahighlights  #Warriors #Celtics #stephcurry Thanks Noom for sponsoring today's video. Visit http://noom.com/bball to get your free Noom evaluat...",
+    "url": "https://www.youtube.com/watch?v=4zGVfIxkb0g",
+    "urlToImage": "https://i.ytimg.com/vi/4zGVfIxkb0g/hqdefault.jpg",
+    "publishedAt": "2022-06-14T19:04:08Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kotaku"
+    },
+    "author": "Ari Notis",
+    "title": "The PS Plus Revamp Gives You A Ton Of Games, But Is A Bit Of A Mess - Kotaku",
+    "description": "Sony’s improved subscription service could, um, stand to be improved",
+    "url": "https://kotaku.com/ps-plus-essential-extra-premium-ps4-ps5-ps3-games-1849060132",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8c60975c930d152c5a02d192e0eb329b.jpg",
+    "publishedAt": "2022-06-14T18:20:00Z",
+    "content": "Sonys big revamp of PS Plus is here. Its pretty cool. It could also use some work on some of its most-hyped perks, such as game demos and classic hits.\r\nAnnounced back in March, PS Plus 2.0 (not the … [+7649 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sports Illustrated"
+    },
+    "author": "Chris Herring",
+    "title": "Celtics Are Handing the Warriors the NBA Title - Sports Illustrated",
+    "description": "Boston's turnover problems might cost them in the Finals.",
+    "url": "https://www.si.com/nba/2022/06/14/nba-finals-celtics-warriors-jayson-tatum-jaylen-brown-turnovers",
+    "urlToImage": "https://www.si.com/.image/t_share/MTkwMTk4MTM0NzA0NDQ4ODU0/jayson-tatum-klay-thompson-warriors-celtics-finals.jpg",
+    "publishedAt": "2022-06-14T18:15:01Z",
+    "content": "Just under five minutes remained in Monday’s Game 5 when a slight confrontation took place: Jayson Tatum, preparing to take a practice shot as the Celtics walked to the huddle for a timeout, was bein… [+5847 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "James Hibberd",
+    "title": "‘Squid Game’ Reality Series Coming to Netflix With Biggest Cash Prize in TV History - Hollywood Reporter",
+    "description": "Logo text Netflix is staging a real-life Squid Game series that’s billed as “the biggest reality competition ever.” The streamer announced a reality TV production based on its global dystopian smash at the Banff World Media Festival on Tuesday. While the stak…",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-squid-game-reality-tv-show-1235165133/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/10/SquidGame_Unit_104_1570.jpeg?w=1024",
+    "publishedAt": "2022-06-14T18:13:57Z",
+    "content": "Netflix is staging a real-life Squid Game series that’s billed as “the biggest reality competition ever.”\r\nThe streamer announced a reality TV production based on its global dystopian smash at the Ba… [+4183 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": "Jess Cohen",
+    "title": "Gwyneth Paltrow and Brad Pitt Reflect on Their Breakup Over 20 Years Later - E! NEWS",
+    "description": "Gwyneth Paltrow and Brad Pitt, who called off their engagement in 1997, reunited for an intimate conversation about their shared history and his bond with her late father, Bruce Paltrow.",
+    "url": "https://www.eonline.com/news/1334538/gwyneth-paltrow-and-brad-pitt-reflect-on-their-breakup-over-20-years-later",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021820/rs_1200x1200-210920123813-1200-brad-pitt-gwyneth-paltrow-hair-1997.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+    "publishedAt": "2022-06-14T18:13:00Z",
+    "content": "Gwyneth Paltrow and Brad Pitt agree: Everything happens for a reason.\r\nWhich is why the former couplewho split in 1997can joke about their breakup more than two decades after calling off their engage… [+1068 chars]"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Ryan Dinsdale",
+    "title": "Xbox Games Showcase Extended 2022: Everything Announced and Shown - IGN - IGN",
+    "description": "The Xbox Games Showcase Extended has now wrapped up, giving fans updates on S.T.A.L.K.E.R. 2, Valheim, and more.",
+    "url": "https://www.ign.com/articles/xbox-games-showcase-extended-2022-everything-announced-and-shown",
+    "urlToImage": "https://assets-prd.ignimgs.com/2022/06/14/redfallfrontign-1655226742557.jpg?width=1280",
+    "publishedAt": "2022-06-14T18:11:15Z",
+    "content": "The Xbox Games Showcase Extended has now wrapped up and, as intended, we got extended looks at a ton of the games featured in its main showcase on Sunday. Bethesdas Pete Hines discussed Starfield, Re… [+5539 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "Record high gas prices: West Virginia, Montana, Colorado see biggest weekly jumps - Fox Business",
+    "description": "The average price for a gallon of gasoline jumped at least 21 cents in 10 states over the past week.",
+    "url": "https://www.foxbusiness.com/economy/record-high-gas-prices-west-virginia-montana-colorado-see-biggest-weekly-jumps",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/Gas-Prices-Record-Highs.jpg?ve=1&tl=1",
+    "publishedAt": "2022-06-14T18:09:56Z",
+    "content": "The national average price for regular gasoline rose 10 cents over the past week and remains at a record high of $5.01 per gallon Tuesday. \r\nHowever, some states saw their averages jump more than twi… [+1672 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ashley Strickland, CNN",
+    "title": "A male mastodon suffered a brutal injury before he died 13,200 years ago - CNN",
+    "description": "A male mastodon died after a nasty fight with a rival about 13,200 years ago in what is now northeast Indiana. His tusks reveal how the 8-ton adult died and where he trekked across North America.",
+    "url": "https://www.cnn.com/2022/06/13/world/mastodon-tusk-migration-scn/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220613123114-01-buesching-mastodon-super-tease.jpg",
+    "publishedAt": "2022-06-14T17:49:00Z",
+    "content": "(CNN)A male mastodon died fighting with a rival during mating season about 13,200 years ago in what is now northeast Indiana. Now, his well-preserved fossil and tusks reveal not only how the 8-ton ad… [+3862 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Biden to meet with Saudi crown prince despite 'pariah' pledge - Reuters.com",
+    "description": "U.S. President Joe Biden will meet Saudi Crown Prince Mohammed bin Salman during a trip to the Middle East in July, in a break with his campaign pledge of making the kingdom a \"pariah\" as he struggles to combat record high U.S. gasoline prices.",
+    "url": "https://www.reuters.com/world/middle-east/biden-meet-with-saudi-crown-prince-during-middle-east-trip-2022-06-14/",
+    "urlToImage": "https://www.reuters.com/resizer/ftKtBhXUGPd7gVLZCtJ0O1lPHx4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VN3N7AWPX5P7HKCAJEGFJRZ7IQ.jpg",
+    "publishedAt": "2022-06-14T17:37:00Z",
+    "content": "WASHINGTON, June 14 (Reuters) - U.S. President Joe Biden will meet Saudi Crown Prince Mohammed bin Salman during a trip to the Middle East in July, in a break with his campaign pledge of making the k… [+3952 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Times"
+    },
+    "author": "Ruth Graham",
+    "title": "Southern Baptists Gather for ‘Historic’ Convention - The New York Times",
+    "description": "The nation’s largest Protestant denomination, a bellwether for conservative Christianity, will elect a leader and determine response to a sex abuse scandal.",
+    "url": "https://www.nytimes.com/2022/06/14/us/southern-baptists-convention.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/06/14/us/14southern-baptists-placeholder-2/14southern-baptists-placeholder-2-facebookJumbo.jpg",
+    "publishedAt": "2022-06-14T17:35:33Z",
+    "content": "With 13.7 million members, the denomination has been in a steady slump since its peak of 16.3 million members in 2006. But it still boasts 47,000 churches spread across every state, and is closely wa… [+1352 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Matthew Cappucci, Jason Samenow",
+    "title": "Extreme weather is lashing virtually every region of the Lower 48 - The Washington Post",
+    "description": "Excessive heat, violent storms, flooding and fires are ravaging the Lower 48 states.",
+    "url": "https://www.washingtonpost.com/climate-environment/2022/06/14/extreme-weather-lower48-heatwave-storms/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSRRNYXLOMI6ZH4QPHPR7MUCSY.jpg&w=1440",
+    "publishedAt": "2022-06-14T17:35:13Z",
+    "content": "Placeholder while article actions load\r\nNearly every corner of the Lower 48 is dealing with some sort of wild weather, with fires, floods, tornadoes and a punishing heat wave all wreaking havoc.\r\nA s… [+9017 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ESPN"
+    },
+    "author": "Jake Trotter",
+    "title": "Deshaun Watson reiterates innocence against allegations but regrets impact of lawsuits on Cleveland Browns, family - ESPN",
+    "description": "Deshaun Watson on Tuesday reiterated that he is innocent of the numerous allegations of inappropriate sexual conduct made against him but said he regrets the impact the lawsuits have had on the people around him.",
+    "url": "https://www.espn.com/nfl/story/_/id/34091461/deshaun-watson-reiterates-innocence-allegations-regrets-impact-lawsuits-cleveland-browns-family",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0614%2Fr1025043_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-06-14T17:16:41Z",
+    "content": "BEREA, Ohio -- Deshaun Watson reiterated Tuesday that he is innocent of the numerous allegations of inappropriate sexual conduct during massage sessions that have been made against him. Yet while the… [+4785 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Alyssa Lukpat",
+    "title": "Sure, Internet Explorer Had Its Faults. But Fans Are Mourning Its Death Anyway. - The Wall Street Journal",
+    "description": "Microsoft is pulling the plug on its venerable Internet Explorer browser on Wednesday; “I’m still trying to process it.”",
+    "url": "https://www.wsj.com/articles/sure-microsoft-internet-explorer-browser-had-its-faults-but-fans-are-mourning-its-death-anyway-11655226882",
+    "urlToImage": "https://images.wsj.net/im-563286/social",
+    "publishedAt": "2022-06-14T17:16:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Biden's 'Never Been More Optimistic' Despite Troubled US Economy - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9ec6ec88-ec24-11ec-8737-4e5544784269&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNi0xNC9iaWRlbi1zLW5ldmVyLWJlZW4tbW9yZS1vcHRpbWlzdGljLWRlc3BpdGUtdHJvdWJsZWQtdXMtZWNvbm9teQ==",
+    "urlToImage": null,
+    "publishedAt": "2022-06-14T16:40:16Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Fed meeting: A 75-basis point rate hike is 'priced into' the market, strategist says - Yahoo Finance",
+    "description": "#Fed #Market #stockmarket #yahoofinanceCanaccord Genuity Chief Mkts Strategist Tony Dwyer joins Yahoo Finance anchors Brad Smith, Julie Hyman and Brian Sozzi...",
+    "url": "https://www.youtube.com/watch?v=tF9pmgTiDKU",
+    "urlToImage": "https://i.ytimg.com/vi/tF9pmgTiDKU/maxresdefault.jpg",
+    "publishedAt": "2022-06-14T15:45:49Z",
+    "content": null
+  }
+]
+}
